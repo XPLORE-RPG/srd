@@ -22,11 +22,11 @@ Get ready to tell a thrilling tale of science fiction where forced exploration o
 Explore, discover and find a home.
 
 **Requirements:**
-- XPLORE Playtest Kit (this document!)
-- Character Record Sheets
-- 1 or more sets of Polyhedral dice
-- 1 storyteller
-- 1-5 players
+- XPLORE Playtest Kit (this document!) <br>
+- Character Record Sheets <br>
+- 1 or more sets of Polyhedral dice <br>
+- 1 storyteller <br>
+- 1-5 players <br>
 
 # Where to start?
 
