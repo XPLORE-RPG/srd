@@ -1,18 +1,15 @@
-# System Reference Document Template For RPG's
+# System Reference Document
 
-This work is based on the [DOCSIFY](https://docsify.js.org/) magical site generator project.
-
+This page is a systems reference document for the XPLORE TTRPG by Project Epos. It contains all basic rules needed to (test)play the current version of the game.
 
 ## Work in Progress
 
-This is a work in progress and is being updated.
+This document is a work in progress and is being updated.
 
 
-## Why this project and who am I?
+## What is XPLORE?
 
-G'day, I'm known as Coweater and I'm the lead designer for an indie RPG [7th Extinction](https:7thExtinctionrpg.com). I needed something simple to create and host my SRD and after searching the web and a lot of trial & error I settled on Docsify, thanks Gulluth for your previous work. Knowing that not everyone is technically minded I wanted to do more than point indie developers to Docsify and say 'use this'.
-
-So the plan is to continue to tweak and develop this, ensuring to keep it a simple project that any indie rpg can use to create great looking SRD online with zero cost and little technical knowledge. 
+XPLORE is a science fiction tabletop roleplaying game.  
 
 
 ## Acknowledgments 
