@@ -1,3 +1,6 @@
+# Introduction
+Who, what, where? Here!
+
 # What is XPLORE?
 XPLORE is a tabletop roleplaying game set in the far (alternate) future. Humanity and several other (alien) races have banded together to try and escape their dying galaxy. They work together in the XPLORE Initiative to try and find suitable planets to live on. Yet, by both choice and necessity they are forced to find a new home far from where they started. The players take on the role of elite specialists known as Explorers and are outfitted with the unique ROVER armor suit, a top of line spaceship and the hope of all sentient creatures back home.
 
